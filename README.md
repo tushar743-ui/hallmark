@@ -55,7 +55,7 @@ In bash, this is
 In python, this is
 
     >>> import hallmark as hm
-    >>> sr1 = hm.mount("https://https://eventhorizontelescope.org/data/2017April_SR1")
+    >>> sr1 = hm.mount("https://eventhorizontelescope.org/data/2017April_SR1")
 
 The mount points now acts like standard directory that one can easily
 inspect by standard Unix utilities and python functions.  E.g.,
